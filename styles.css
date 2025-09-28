@@ -104,7 +104,7 @@ a.formlink:active {
 }
 /* Stile per l’immagine del ritratto in alto */
 .hero-right .portrait {
-  width: 320px;
+  width: 350px;
   height: 300px;
   overflow: hidden;
   border-radius: 16px;
